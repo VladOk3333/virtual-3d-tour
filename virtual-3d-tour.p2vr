@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Pano2VR project file  -->
+<pano2vrconfig rev="15990" version="5.2.3">
+  <panorama>
+    <id>node1</id>
+    <input>
+      <patch/>
+    </input>
+    <viewingparameter>
+      <pan/>
+      <tilt/>
+      <fov/>
+      <flyinstart/>
+    </viewingparameter>
+    <userdata/>
+    <floorplans/>
+    <hotspots/>
+    <output/>
+    <streetview/>
+    <streetviewproject/>
+    <sounds/>
+  </panorama>
+</pano2vrconfig>
